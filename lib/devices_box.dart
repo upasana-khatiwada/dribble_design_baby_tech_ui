@@ -17,10 +17,10 @@ class DevicesBox extends StatefulWidget {
 class _DevicesBoxState extends State<DevicesBox> {
   List icons = [
     ["images/crib.png","Bed",const BedPage()],
-    ["images/swing chair.jpg","Swing Chair",const SwingChairPage()],
-    ["images/cam.png","Camera",const SleepMonitorPage()],
+    ["images/swing chair.jpeg","Swing Chair",const SwingChairPage()],
+    ["images/camera.png","Camera",const SleepMonitorPage()],
     ["images/light-bulb.png","Lightning",const LightPage()],
-    ["images/baby-bath-tub.png","Bath",const BathPage()],
+    ["images/baby bath tub.jpeg","Bath",const BathPage()],
     ["images/feeding-bottle.png","Bottle",const BottlePage()],
   ];
 
